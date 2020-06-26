@@ -1,4 +1,4 @@
-# flutterapp
+# Flutter Application
 
 A simple flutter Application
 
