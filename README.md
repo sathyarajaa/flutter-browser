@@ -1,6 +1,6 @@
-# flutterapp
+# Flutter Application
 
-A new Flutter application.
+A simple flutter Application
 
 ## Getting Started
 
